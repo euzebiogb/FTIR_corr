@@ -1,6 +1,8 @@
 # Analisador Interativo de Espectro Infravermelho (IR)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+Acesse: https://euzebiogb.github.io/FTIR_corr/
+
+Temos espectros exemplo no repositório.
 
 ## Descrição
 
